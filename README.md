@@ -16,9 +16,13 @@ tackle these issues.
 
 
 ## Code Structure
-1. Import Libraries &  Data Retrieval
-2. Quick Exploration & Data Cleaning <br>
+**1. Import Libraries &  Data Retrieval**<br>
+**2. Quick Exploration & Data Cleaning <br>**
 2.1 Missing values <br>
 2.2 Duplicates <br>
 2.3 Inadequate Datatypes <br>
-3. 
+2.4 Outliers/Quick visualization: <br>
+    Death by Time and Age;<br>
+    Death by State and City;<br>
+    Death by Categorical Features;<br>
+**3. Data Exploration & Visualization**
