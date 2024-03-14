@@ -16,13 +16,15 @@ tackle these issues.
 
 
 ## Code Structure
-**1. Import Libraries &  Data Retrieval**<br>
-**2. Quick Exploration & Data Cleaning <br>**
-2.1 Missing values <br>
+**1. Import Libraries &  Data Retrieval**<br><br>
+**2. Quick Exploration & Data Cleaning**<br>
+2.1 Missing values <br> 
+&emsp; 2.1.1 Imputation <br>
 2.2 Duplicates <br>
 2.3 Inadequate Datatypes <br>
-2.4 Outliers/Quick visualization: <br>
-    Death by Time and Age;<br>
-    Death by State and City;<br>
-    Death by Categorical Features;<br>
-**3. Data Exploration & Visualization**
+2.4 Outliers/Quick visualization <br>
+&emsp; 2.4.1 Death by Time and Age<br>
+&emsp; 2.4.2 Death by State and City<br>
+&emsp; 2.4.3 Death by Categorical Features<br><br>
+**3. Data Exploration & Visualization**<br>
+3.1 Introduce extra dataset<br>
