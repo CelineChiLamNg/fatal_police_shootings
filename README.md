@@ -5,7 +5,7 @@
 ## Project Goal 
 Analyze fatal police shootings throughout the United States of America, 
 providing a list of issues of police activity, and proposing a plan on how to 
-tackle these issues. 
+tackle these issues.
 1. Police actions against civilians systematically? 
 2. States, cities?
 3. Race equality
@@ -27,4 +27,22 @@ tackle these issues.
 &emsp; 2.4.2 Death by State and City<br>
 &emsp; 2.4.3 Death by Categorical Features<br><br>
 **3. Data Exploration & Visualization**<br>
-3.1 Introduce extra dataset<br>
+3.1 Visualize Deaths Scaled by Racial Proportions<br>
+3.2 Extra Dataset<br>
+&emsp; 3.2.1 Population by State<br>
+
+# Data
+US in general
+https://data.census.gov/profile/United_States?g=010XX00US -> everything
+https://www.nsf.gov/statistics/states/interactive/show.cfm?
+stateID=31&code=PERS&year=2016 -> income, etc, gdp
+
+2020 Census DHC
+https://www.census.gov/data/tables/2023/dec/2020-census-dhc.html
+P5 -> race population by state
+
+
+Population by state
+https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html
+->Population, Population Change, and Estimated Components of Population 
+Change: April 1, 2010 to July 1, 2019 (NST-EST2019-alldata)
