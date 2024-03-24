@@ -30,6 +30,8 @@ tackle these issues.
 3.1 Visualize Deaths Scaled by Racial Proportions<br>
 3.2 Extra Dataset<br>
 &emsp; 3.2.1 Population by State<br>
+&emsp; 3.2.2 Population by State<br>
+&emsp; 3.2.3 Population by State<br>
 
 # Data
 US in general
