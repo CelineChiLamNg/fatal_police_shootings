@@ -18,7 +18,8 @@ deviation for fatality per million
 P5 -> race population by state
 
 ## Approach & Methodology
-For this project, there are 
+This project follows a structured approach including data cleaning, data 
+exploration, and correlation analysis.
 1. Data cleaning: Check and visualize missing values (compare distribution 
    before/after imputation), duplicates, inadequate datatypes, and 
    outliers.
